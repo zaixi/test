@@ -6,3 +6,4 @@ sudo zerotier-cli join 8056c2e21c000001
 sudo zerotier-cli leave 8056c2e21c000001  
 
 ngrok http://ngrok.ciqiuwl.cn/
+frp http://freefrp.tk/
